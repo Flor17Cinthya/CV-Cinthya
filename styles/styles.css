@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(248, 130, 248);
+    background-color: #e5dde6;
     margin: 0;
     padding-right: 50px;
     padding-left: 50px;
@@ -23,9 +23,10 @@ p{
     height: 150px;
     width: 150px;
     border-radius: 15px;
+    text-align: center;
 }
 #personalData{
-    background-color: rgb(234, 189, 234);
+    background-color:#c0a0c3;
     border-radius: 25px;
     margin: 25px;
     padding-left: 50px;
@@ -33,15 +34,40 @@ p{
     padding-bottom: 15px;
     padding-top: 15px;
 }
-section{
-    background-color: rgb(212, 21, 202);
-    padding: 5px;
-    margin: 15px;
+#titulo{
+    background-color: #8f7193;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin: 25px;
     border-radius: 25px;
 }
-#titulo{
-    background-color: rgb(214, 159, 220);
-    padding: 5px;
-    margin: 15px;
+#experiencia{
+    background-color: #c0a0c3;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin: 25px;
+    border-radius: 25px;
+}
+#asis{
+    color: black;
+    text-align: justify; 
+    padding-right: 50px;  
+}
+#pas{
+    color: black;
+    text-align: justify;
+    padding-right: 50px;    
+}
+#hobbyes{
+    background-color: #8f7193;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin: 25px;
     border-radius: 25px;
 }
