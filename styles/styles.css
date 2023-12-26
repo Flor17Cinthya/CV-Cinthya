@@ -20,11 +20,15 @@ h2{
 p{
     color: black;
 }
+.profile-description{
+    text-align: center;
+    font-size: 20px;
+}
 .icon{
     height: 10px;
     width: 15px;
 }
-#fotomia{
+.image-profile{
     height: 150px;
     width: 150px;
     border-radius: 15px;
